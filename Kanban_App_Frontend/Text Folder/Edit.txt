@@ -1,0 +1,4 @@
+Get hold of note with id. ✅
+Fetch note with it's id in Edit.jsx.
+Show that notes data in Edit Form.
+Then make a put request on submitting of form.
